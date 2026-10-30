@@ -1,5 +1,3 @@
-# Here is a new update by RAMCS8
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
